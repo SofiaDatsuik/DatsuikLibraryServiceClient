@@ -1,5 +1,5 @@
 
-package com.epam.web.soap.implementation;
+package com.epam.web.soap;
 
 import java.net.MalformedURLException;
 import java.net.URL;

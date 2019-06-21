@@ -2,8 +2,8 @@ package api;
 
 import com.epam.web.ConnectionFactory;
 import com.epam.web.LibraryService;
-import com.epam.web.soap.implementation.ServiceException;
-import com.epam.web.soap.model.Book;
+import com.epam.web.soap.ServiceException;
+import com.epam.web.soap.Book;
 import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -11,15 +11,15 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 
-public class GetAllBookAPITest extends FunctionalityTest {
-    private  LibraryService libraryService;
+public class GetAllBookAPITest extends FunctionalDataProvider {
     private Logger LOG = Logger.getLogger(GetAllBookAPITest.class);
 
-    @Test(dataProvider = "getService")
-    public void getAllUsersTest() throws ServiceException {
-        LOG.info("getAllUsersTest");
+    @Test(dataProvider = "getData")
+    public void getAllBooksTest(LibraryService libraryService) throws ServiceException {
+        LOG.info("getAllBooksTest");
         libraryService = ConnectionFactory.getLibraryService("REST");
         List<Book> books = libraryService.getAllBooks();
-        Assert.assertTrue(books.size()!=0);
+        Assert.assertNotNull(books);
     }
+
 }

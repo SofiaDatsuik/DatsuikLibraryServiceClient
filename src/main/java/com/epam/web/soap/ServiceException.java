@@ -1,5 +1,5 @@
 
-package com.epam.web.soap.implementation;
+package com.epam.web.soap;
 
 import javax.xml.ws.WebFault;
 

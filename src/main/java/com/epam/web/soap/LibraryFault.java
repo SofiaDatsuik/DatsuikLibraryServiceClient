@@ -1,25 +1,22 @@
 
-package com.epam.web.soap.bo;
-
-import com.epam.web.soap.model.Book;
+package com.epam.web.soap;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
-import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for getBookResponse complex type.
+ * <p>Java class for LibraryFault complex type.
  * 
  * <p>The following schema fragment specifies the expected content contained within this class.
  * 
  * <pre>
- * &lt;complexType name="getBookResponse">
+ * &lt;complexType name="LibraryFault">
  *   &lt;complexContent>
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *       &lt;sequence>
- *         &lt;element name="return" type="{http://soap.web.epam.com/}book" minOccurs="0"/>
+ *         &lt;element name="message" type="{http://www.w3.org/2001/XMLSchema}string" minOccurs="0"/>
  *       &lt;/sequence>
  *     &lt;/restriction>
  *   &lt;/complexContent>
@@ -29,36 +26,35 @@ import javax.xml.bind.annotation.XmlType;
  * 
  */
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(name = "getBookResponse", propOrder = {
-    "_return"
+@XmlType(name = "LibraryFault", propOrder = {
+    "message"
 })
-public class GetBookResponse {
+public class LibraryFault {
 
-    @XmlElement(name = "return")
-    protected Book _return;
+    protected String message;
 
     /**
-     * Gets the value of the return property.
+     * Gets the value of the message property.
      * 
      * @return
      *     possible object is
-     *     {@link Book }
+     *     {@link String }
      *     
      */
-    public Book getReturn() {
-        return _return;
+    public String getMessage() {
+        return message;
     }
 
     /**
-     * Sets the value of the return property.
+     * Sets the value of the message property.
      * 
      * @param value
      *     allowed object is
-     *     {@link Book }
+     *     {@link String }
      *     
      */
-    public void setReturn(Book value) {
-        this._return = value;
+    public void setMessage(String value) {
+        this.message = value;
     }
 
 }

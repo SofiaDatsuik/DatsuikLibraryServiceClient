@@ -12,3 +12,630 @@
 2019-06-20 21:40:45 INFO  ConnectionFactory:24 - Enter correct service
 2019-06-20 21:43:17 INFO  ConnectionFactory:14 - getLibraryService method
 2019-06-20 21:43:17 INFO  ConnectionFactory:24 - Enter correct service
+2019-06-20 23:20:41 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:20:41 INFO  ConnectionFactory:24 - Enter correct service
+2019-06-20 23:20:53 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:21:48 INFO  ConnectionFactory:24 - Enter correct service
+2019-06-20 23:21:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:21:54 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:21:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:21:54 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:24:07 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:24:07 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:24:07 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:24:07 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:31:17 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:31:17 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:31:17 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:31:17 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:34:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:34:24 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:34:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:34:24 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:37:51 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:37:51 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:37:51 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:37:51 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:37:59 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:37:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:37:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:37:59 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:38:01 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:38:01 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:38:01 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:38:01 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:42:22 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:42:25 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:42:26 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:42:26 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:42:27 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:42:27 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:42:27 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:42:27 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:45:47 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:45:47 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:45:47 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:45:47 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:45:48 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:45:48 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:45:48 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:45:48 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:47:38 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:47:38 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:47:39 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:47:39 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:47:40 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:47:40 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:47:40 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:47:40 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:47:58 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:47:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:47:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:47:58 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:48:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:48:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:48:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:48:59 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-20 23:49:00 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:49:00 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:49:00 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:49:00 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-20 23:49:02 INFO  GetAllBookAPITest:20 - getAllUsersTest
+2019-06-20 23:49:02 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-20 23:49:02 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-20 23:49:02 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 08:01:33 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:01:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:01:33 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:01:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:01:33 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:01:34 INFO  Listener:29 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] was skipped 
+2019-06-21 08:01:34 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:03:11 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:03:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:03:11 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:03:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:03:11 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:03:12 INFO  Listener:29 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] was skipped 
+2019-06-21 08:03:12 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:04:46 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:04:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:04:46 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:04:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:04:46 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:04:47 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093487943
+2019-06-21 08:04:48 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:04:48 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:04:48 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:04:48 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:04:48 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] failed in
+2019-06-21 08:04:48 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093488830
+2019-06-21 08:04:48 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:04:48 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:04:48 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:04:48 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:04:48 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] failed in
+2019-06-21 08:04:48 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:05:31 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:05:31 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:05:31 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:05:32 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:05:32 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:05:32 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093532569
+2019-06-21 08:05:32 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:05:32 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:05:32 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:05:32 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:05:32 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 08:05:32 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 08:05:33 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093533007
+2019-06-21 08:05:33 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:05:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:05:33 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:05:33 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:05:33 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 08:05:33 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 08:05:33 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:08:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:16 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:08:16 INFO  GetAllBookAPITest:19 - getAllBooksTest
+2019-06-21 08:08:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:16 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:16 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 08:08:17 INFO  GetAllBookAPITest:19 - getAllBooksTest
+2019-06-21 08:08:17 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:17 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:17 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 08:08:37 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:08:37 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:37 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:37 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:37 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:08:38 INFO  Listener:13 - Teststarted running:searchBookWithCorrectTitleSoap at:1561093718801
+2019-06-21 08:08:38 INFO  FindBookAPITest:28 - Search book with uncorrect input data
+2019-06-21 08:08:38 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:38 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:08:38 INFO  FindBookAPITest:30 - Incorrect bookTitle is:Split
+2019-06-21 08:08:39 WARN  Listener:24 - Test : searchBookWithCorrectTitleSoap , Method : FindBookAPITest.searchBookWithCorrectTitleSoap(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] failed in
+2019-06-21 08:08:39 INFO  Listener:13 - Teststarted running:searchBookWithCorrectTitleSoap at:1561093719259
+2019-06-21 08:08:39 INFO  FindBookAPITest:28 - Search book with uncorrect input data
+2019-06-21 08:08:39 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:39 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:08:39 INFO  FindBookAPITest:30 - Incorrect bookTitle is:Split
+2019-06-21 08:08:39 WARN  Listener:24 - Test : searchBookWithCorrectTitleSoap , Method : FindBookAPITest.searchBookWithCorrectTitleSoap(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@19dc67c2] failed in
+2019-06-21 08:08:39 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:08:55 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 08:08:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:56 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:56 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 08:08:57 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093737386
+2019-06-21 08:08:57 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:08:57 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:57 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:57 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:08:57 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 08:08:57 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 08:08:58 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561093738077
+2019-06-21 08:08:58 INFO  FindBookAPITest:20 - Search book with uncorrect input data
+2019-06-21 08:08:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 08:08:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 08:08:58 INFO  FindBookAPITest:22 - Incorrect bookTitle is:Split
+2019-06-21 08:08:58 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 08:08:58 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 08:08:58 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@1b68b9a4
+2019-06-21 09:50:49 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 09:50:49 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:50:49 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 09:50:49 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:50:49 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 09:50:55 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561099855647
+2019-06-21 09:50:55 INFO  FindBookAPITest:21 - Search book with uncorrect input data
+2019-06-21 09:50:55 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:50:55 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 09:50:55 INFO  FindBookAPITest:23 - Incorrect bookTitle is:Split
+2019-06-21 09:50:55 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 09:50:55 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 09:50:56 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561099856061
+2019-06-21 09:50:56 INFO  FindBookAPITest:21 - Search book with uncorrect input data
+2019-06-21 09:50:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:50:56 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 09:50:56 INFO  FindBookAPITest:23 - Incorrect bookTitle is:Split
+2019-06-21 09:50:56 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 09:50:56 INFO  Listener:19 - Result successsearchBookWithWrongTitleRest
+2019-06-21 09:50:56 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 09:54:28 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 09:54:28 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:54:28 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 09:54:28 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:54:28 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 09:54:28 INFO  Listener:13 - Teststarted running:searchBookWithCorrectTitleSoap at:1561100068822
+2019-06-21 09:54:28 INFO  FindBookAPITest:32 - Search book with uncorrect input data
+2019-06-21 09:54:28 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:54:28 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 09:54:28 INFO  FindBookAPITest:34 - Incorrect bookTitle is:Split
+2019-06-21 09:54:29 WARN  Listener:24 - Test : searchBookWithCorrectTitleSoap , Method : FindBookAPITest.searchBookWithCorrectTitleSoap(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 09:54:29 INFO  Listener:13 - Teststarted running:searchBookWithCorrectTitleSoap at:1561100069131
+2019-06-21 09:54:29 INFO  FindBookAPITest:32 - Search book with uncorrect input data
+2019-06-21 09:54:29 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 09:54:29 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 09:54:29 INFO  FindBookAPITest:34 - Incorrect bookTitle is:Split
+2019-06-21 09:54:29 WARN  Listener:24 - Test : searchBookWithCorrectTitleSoap , Method : FindBookAPITest.searchBookWithCorrectTitleSoap(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 09:54:29 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 10:11:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:11:54 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:11:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:11:54 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:12:01 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:12:01 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:12:02 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:12:03 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:12:03 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:12:03 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:18:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:24 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:24 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:18:25 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:25 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:26 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:18:26 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 10:18:26 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:26 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:26 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:18:26 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 10:18:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:56 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:56 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:18:57 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:57 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:58 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:18:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:18:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:18:59 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:21:39 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:21:39 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:21:39 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:21:39 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:21:40 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:21:40 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:21:41 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:21:41 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:21:41 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:21:41 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:30:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:30:24 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:30:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:30:24 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:30:26 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:30:26 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:30:26 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:30:27 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:30:27 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:30:27 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:32:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:32:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:32:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:32:15 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:32:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:32:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:32:16 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:32:16 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 10:32:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:32:16 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:32:16 INFO  LibraryServiceRestClient:28 - getAllBooks method
+2019-06-21 10:32:16 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 10:33:10 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:33:10 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:33:10 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:33:10 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:33:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:33:11 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:33:12 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:33:12 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:37:32 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:37:32 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:37:32 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:37:32 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:37:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:37:33 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:37:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:37:33 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:41:45 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:41:45 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:41:45 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:41:45 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:41:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:41:46 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:41:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:41:46 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:42:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:42:42 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:42:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:42:42 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:42:43 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:42:43 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:42:43 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:42:43 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:43:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:43:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:43:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:43:58 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:43:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:43:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:43:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:43:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:49:21 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:21 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:49:21 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:21 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:49:52 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:52 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:49:52 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:52 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:49:53 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:53 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:49:53 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:49:53 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:51:29 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:51:29 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 10:51:29 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:51:29 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:51:29 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:51:29 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 10:51:30 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 10:51:30 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:02:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:02:16 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:02:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:02:16 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:02:17 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:02:17 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:02:17 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:02:17 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:03:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:03:24 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:03:24 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:03:24 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:03:25 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:03:25 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:03:25 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:03:25 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:09:02 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:09:02 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:09:02 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:09:02 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:11:07 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:11:07 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:11:07 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:11:07 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:17:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:17:54 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:17:54 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:17:54 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:18:22 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:18:22 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:18:22 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:18:22 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:19:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:19:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:19:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:19:15 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:20:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:20:08 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:20:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:20:08 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:20:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:20:56 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:20:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:20:56 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:21:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:21:16 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:21:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:21:16 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:21:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:21:42 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:21:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:21:42 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:22:23 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:22:23 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:22:23 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:22:23 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:23:41 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:23:41 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:23:41 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:23:41 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:24:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:24:08 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:24:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:24:08 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:25:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:08 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:08 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:25:09 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:09 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:10 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:10 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:30 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:30 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:30 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:30 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:25:31 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:31 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:31 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 11:25:31 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:25:31 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:25:32 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 11:32:09 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:32:09 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:32:09 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:32:09 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:32:10 INFO  FindBookAPITest:24 - getFiveAuthorsBooks
+2019-06-21 11:32:10 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:32:10 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:32:10 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:32:11 INFO  FindBookAPITest:24 - getFiveAuthorsBooks
+2019-06-21 11:32:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:32:11 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:32:11 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:35:51 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:35:51 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:35:51 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:35:51 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:35:52 INFO  FindBookAPITest:24 - getFiveAuthorsBooks
+2019-06-21 11:35:52 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:35:52 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:35:52 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:35:52 INFO  FindBookAPITest:24 - getFiveAuthorsBooks
+2019-06-21 11:35:52 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:35:52 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:35:52 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:37:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:37:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:37:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:37:58 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:37:58 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:37:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:37:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:37:59 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:37:59 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:37:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:37:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:37:59 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:38:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:33 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:33 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:38:33 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:38:33 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:33 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:34 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:38:34 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:38:34 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:34 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:34 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:38:45 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:45 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:45 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:45 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:38:46 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:38:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:46 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:46 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:38:47 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:38:47 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:38:47 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:38:47 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:40:06 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:40:06 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:40:06 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:40:06 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:40:06 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:40:06 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:40:06 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:40:07 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:40:08 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:40:08 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:40:08 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:40:08 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:41:14 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:41:14 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:41:14 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:41:14 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:41:15 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:41:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:41:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:41:40 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:42:43 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:42:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:42:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:42:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:42:59 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:43:00 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:43:00 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:43:00 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:43:00 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:44:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:44:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:44:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:44:15 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:44:15 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:44:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:44:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:44:16 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:44:16 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:44:16 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:44:16 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:44:16 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:47:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:47:58 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:47:58 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:47:58 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 11:47:59 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:47:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:47:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:47:59 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 11:47:59 INFO  FindBookAPITest:27 - getFiveAuthorsBooks
+2019-06-21 11:47:59 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 11:47:59 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 11:47:59 INFO  LibraryServiceRestClient:91 - getBooksByAuthor method
+2019-06-21 12:06:46 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:06:46 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:06:47 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:06:47 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:06:47 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:06:47 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:06:48 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:06:48 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:12:25 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:12:25 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:12:25 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:12:25 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:12:26 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:12:26 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:12:26 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 12:12:26 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:12:26 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:12:26 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 12:13:12 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:12 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:13:13 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:13 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:13:14 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:14 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:13:14 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 12:13:15 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:15 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:13:15 INFO  LibraryServiceRestClient:78 - deleteBook
+2019-06-21 12:13:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:42 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:13:42 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:42 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:13:43 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:43 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:13:43 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:13:43 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:17:11 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 12:17:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:17:11 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:17:11 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:17:11 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:17:12 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108632385
+2019-06-21 12:17:12 INFO  FindBookAPITest:23 - Search book with uncorrect input data
+2019-06-21 12:17:12 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:17:12 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:17:12 INFO  FindBookAPITest:25 - Incorrect bookTitle is:Split
+2019-06-21 12:17:12 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:17:12 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:17:12 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108632793
+2019-06-21 12:17:12 INFO  FindBookAPITest:23 - Search book with uncorrect input data
+2019-06-21 12:17:12 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:17:12 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:17:12 INFO  FindBookAPITest:25 - Incorrect bookTitle is:Split
+2019-06-21 12:17:12 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:17:12 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:17:12 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 12:19:40 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 12:19:40 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:19:40 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:19:41 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:19:41 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:19:54 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108794861
+2019-06-21 12:19:55 INFO  FindBookAPITest:23 - Search book with uncorrect input data
+2019-06-21 12:19:55 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:19:55 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:19:55 INFO  FindBookAPITest:25 - Incorrect bookTitle is:Reviews
+2019-06-21 12:19:55 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:19:55 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:19:56 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108796134
+2019-06-21 12:19:56 INFO  FindBookAPITest:23 - Search book with uncorrect input data
+2019-06-21 12:19:56 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:19:56 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:19:56 INFO  FindBookAPITest:25 - Incorrect bookTitle is:Reviews
+2019-06-21 12:19:56 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:19:56 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:19:56 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 12:22:50 INFO  Listener:40 - Starting tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2
+2019-06-21 12:22:50 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:22:50 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:22:50 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:22:50 INFO  ConnectionFactory:21 - Soap Library Service Client
+2019-06-21 12:22:52 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108972415
+2019-06-21 12:22:52 INFO  FindBookAPITest:22 - Search book with uncorrect input data
+2019-06-21 12:22:52 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:22:52 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:22:52 INFO  FindBookAPITest:24 - Incorrect bookTitle is:Reviews
+2019-06-21 12:22:52 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:22:53 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:22:53 INFO  Listener:13 - Teststarted running:searchBookWithWrongTitleRest at:1561108973430
+2019-06-21 12:22:53 INFO  FindBookAPITest:22 - Search book with uncorrect input data
+2019-06-21 12:22:53 INFO  ConnectionFactory:14 - getLibraryService method
+2019-06-21 12:22:53 INFO  ConnectionFactory:18 - Rest Library Service Client
+2019-06-21 12:22:53 INFO  FindBookAPITest:24 - Incorrect bookTitle is:Reviews
+2019-06-21 12:22:53 INFO  LibraryServiceRestClient:55 - getBook method
+2019-06-21 12:22:53 WARN  Listener:24 - Test : searchBookWithWrongTitleRest , Method : FindBookAPITest.searchBookWithWrongTitleRest(com.epam.web.LibraryService)[pri:0, instance:api.FindBookAPITest@62bd765] failed in
+2019-06-21 12:22:53 INFO  Listener:46 - Finish tests : SoffiaDatsiukLibraryServiceClient, Output directory : C:\Users\Sofia\OneDrive\Рабочий стол\SER\SoffiaDatsiukLibraryServiceClient\test-output\Default Suite, Test Suite : org.testng.SuiteRunner@3b2c72c2

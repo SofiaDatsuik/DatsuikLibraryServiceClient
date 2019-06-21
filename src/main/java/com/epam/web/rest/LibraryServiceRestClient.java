@@ -2,7 +2,7 @@ package com.epam.web.rest;
 
 import com.epam.utils.parser.PropertyParser;
 import com.epam.web.LibraryService;
-import com.epam.web.soap.model.Book;
+import com.epam.web.soap.Book;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;

@@ -1,5 +1,5 @@
 
-package com.epam.web.soap.bo;
+package com.epam.web.soap.jaxws;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

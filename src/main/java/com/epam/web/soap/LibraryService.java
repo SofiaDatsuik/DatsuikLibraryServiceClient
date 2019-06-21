@@ -1,7 +1,5 @@
 
-package com.epam.web.soap.implementation;
-
-import com.epam.web.soap.model.Book;
+package com.epam.web.soap;
 
 import java.util.List;
 import javax.jws.WebMethod;
@@ -53,8 +51,8 @@ public interface LibraryService extends com.epam.web.LibraryService{
      */
     @WebMethod
     @WebResult(targetNamespace = "")
-    @RequestWrapper(localName = "deleteBook", targetNamespace = "http://soap.web.epam.com/", className = "com.epam.web.soap.DeleteBook")
-    @ResponseWrapper(localName = "deleteBookResponse", targetNamespace = "http://soap.web.epam.com/", className = "com.epam.web.soap.DeleteBookResponse")
+    @RequestWrapper(localName = "deleteBook", targetNamespace = "http://soap.web.epam.com/", className = "com.epam.web.soap.jaxws.DeleteBook")
+    @ResponseWrapper(localName = "deleteBookResponse", targetNamespace = "http://soap.web.epam.com/", className = "com.epam.web.soap.jaxws.DeleteBookResponse")
     public boolean deleteBook(
         @WebParam(name = "arg0", targetNamespace = "")
         String arg0,
@@ -107,7 +105,7 @@ public interface LibraryService extends com.epam.web.LibraryService{
     @ResponseWrapper(localName = "takeBookResponse", targetNamespace = "http://soap.web.epam.com/", className = "com.epam.web.soap.TakeBookResponse")
     public boolean takeBook(
         @WebParam(name = "arg0", targetNamespace = "")
-        Book arg0)
+                Book arg0)
         throws ServiceException
     ;
 

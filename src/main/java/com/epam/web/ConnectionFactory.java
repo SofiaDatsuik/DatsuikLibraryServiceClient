@@ -2,7 +2,7 @@ package com.epam.web;
 
 import com.epam.utils.parser.PropertyParser;
 import com.epam.web.rest.LibraryServiceRestClient;
-import com.epam.web.soap.implementation.LibraryServiceImplService;
+import com.epam.web.soap.LibraryServiceImplService;
 import org.apache.log4j.Logger;
 
 public class ConnectionFactory {

@@ -1,10 +1,8 @@
 
-package com.epam.web.soap.implementation;
+package com.epam.web.soap;
 
-import com.epam.web.soap.bo.TakeBook;
-import com.epam.web.soap.bo.TakeBookResponse;
-import com.epam.web.soap.bo.*;
-import com.epam.web.soap.model.Book;
+import com.epam.web.soap.jaxws.DeleteBook;
+import com.epam.web.soap.jaxws.DeleteBookResponse;
 
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.annotation.XmlElementDecl;

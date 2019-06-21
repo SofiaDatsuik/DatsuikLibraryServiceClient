@@ -1,5 +1,5 @@
 
-package com.epam.web.soap.model;
+package com.epam.web.soap;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -25,7 +25,7 @@ import javax.xml.bind.annotation.XmlType;
  * &lt;/complexType>
  * </pre>
  * 
- * 
+ *
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "book", propOrder = {
@@ -43,6 +43,9 @@ public class Book {
         this.author = author;
         this.genre = genre;
         this.title = title;
+    }
+
+    public Book() {
     }
 
     /**

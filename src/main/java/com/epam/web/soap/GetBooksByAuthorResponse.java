@@ -1,7 +1,5 @@
 
-package com.epam.web.soap.bo;
-
-import com.epam.web.soap.model.Book;
+package com.epam.web.soap;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,12 +10,12 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for getAllBooksResponse complex type.
+ * <p>Java class for getBooksByAuthorResponse complex type.
  * 
  * <p>The following schema fragment specifies the expected content contained within this class.
  * 
  * <pre>
- * &lt;complexType name="getAllBooksResponse">
+ * &lt;complexType name="getBooksByAuthorResponse">
  *   &lt;complexContent>
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType">
  *       &lt;sequence>
@@ -31,10 +29,10 @@ import javax.xml.bind.annotation.XmlType;
  * 
  */
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(name = "getAllBooksResponse", propOrder = {
+@XmlType(name = "getBooksByAuthorResponse", propOrder = {
     "_return"
 })
-public class GetAllBooksResponse {
+public class GetBooksByAuthorResponse {
 
     @XmlElement(name = "return")
     protected List<Book> _return;

@@ -1,7 +1,7 @@
 package com.epam.web;
 
-import com.epam.web.soap.implementation.ServiceException;
-import com.epam.web.soap.model.Book;
+import com.epam.web.soap.ServiceException;
+import com.epam.web.soap.Book;
 
 import java.util.List;
 
